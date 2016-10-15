@@ -1,0 +1,27 @@
+{
+  "name": "jest-sandbox",
+  "version": "0.0.1",
+  "description": "Jest with react on the beach. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wookets/jest-sandbox.git"
+  },
+  "keywords": [
+    "jest",
+    "react",
+    "test"
+  ],
+  "author": "wookets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wookets/jest-sandbox/issues"
+  },
+  "homepage": "https://github.com/wookets/jest-sandbox#readme",
+  "devDependencies": {
+    "jest": "16.0.1"
+  }
+}
