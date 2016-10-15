@@ -3,6 +3,14 @@
 
 Using jest to test react and units ;)
 
+## Usage
+
+```
+npm install
+npm test
+npm test:coverage
+```
+
 ## Simple Examples
 
 Naive tests.
