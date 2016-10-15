@@ -4,7 +4,7 @@
   "description": "Jest with react on the beach. ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,17 @@
   },
   "homepage": "https://github.com/wookets/jest-sandbox#readme",
   "devDependencies": {
-    "jest": "16.0.1"
+    "babel-cli": "6.16.0",
+    "babel-jest": "16.0.0",
+    "babel-polyfill": "6.16.0",
+    "babel-preset-es2015": "6.16.0",
+    "babel-preset-react": "6.16.0",
+    "enzyme": "2.4.1",
+    "jest": "16.0.1",
+    "react-test-renderer": "15.4.0-rc.4"
+  },
+  "dependencies": {
+    "react": "15.4.0-rc.4",
+    "react-dom": "15.4.0-rc.4"
   }
 }
