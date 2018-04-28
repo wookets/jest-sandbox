@@ -1,6 +1,8 @@
 
 # jest-sandbox
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/wookets/jest-sandbox.svg)](https://greenkeeper.io/)
+
 Using jest to test react and units ;)
 
 ## Usage
